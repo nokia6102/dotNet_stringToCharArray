@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2012\Projects\encrySample\encrySample\bin\Debug\encrySample.exe.config
+c:\users\user\documents\visual studio 2012\Projects\encrySample\encrySample\obj\Debug\encrySample.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\encrySample\encrySample\obj\Debug\encrySample.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\encrySample\encrySample\obj\Debug\encrySample.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\encrySample\encrySample\obj\Debug\encrySample.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\encrySample\encrySample\bin\Debug\encrySample.exe
+c:\users\user\documents\visual studio 2012\Projects\encrySample\encrySample\bin\Debug\encrySample.pdb
+c:\users\user\documents\visual studio 2012\Projects\encrySample\encrySample\obj\Debug\encrySample.exe
+c:\users\user\documents\visual studio 2012\Projects\encrySample\encrySample\obj\Debug\encrySample.pdb
+C:\Users\user\Documents\GitHub\dotNet_stringToCharArray\encrySample\encrySample\bin\Debug\encrySample.exe.config
+C:\Users\user\Documents\GitHub\dotNet_stringToCharArray\encrySample\encrySample\obj\Debug\encrySample.exe
+C:\Users\user\Documents\GitHub\dotNet_stringToCharArray\encrySample\encrySample\obj\Debug\encrySample.pdb
+C:\Users\user\Documents\GitHub\dotNet_stringToCharArray\encrySample\encrySample\bin\Debug\encrySample.exe
+C:\Users\user\Documents\GitHub\dotNet_stringToCharArray\encrySample\encrySample\bin\Debug\encrySample.pdb
+C:\Users\user\Documents\GitHub\dotNet_stringToCharArray\encrySample\encrySample\obj\Debug\encrySample.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\dotNet_stringToCharArray\encrySample\encrySample\obj\Debug\encrySample.Form1.resources
+C:\Users\user\Documents\GitHub\dotNet_stringToCharArray\encrySample\encrySample\obj\Debug\encrySample.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\dotNet_stringToCharArray\encrySample\encrySample\obj\Debug\encrySample.csproj.GenerateResource.Cache
